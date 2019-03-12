@@ -67,8 +67,7 @@ body{
 
 </head>
 <body>
-    <!--<h1 style="font: oblique bold 120% cursive; text-align: center; font-size: 70px;">Promedio</h1> -->
-
+    
     <center><form class="box" action="tarea.php" method="#">
             <h1 style="text-decoration: underline;">Calificaciones Periodo X</h1>
             <h2 style="font: oblique bold 120% cursive; text-align: center; color: white;">Calificaciones primer parcial: </h2>
